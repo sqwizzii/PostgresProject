@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PostgresProject", "PostgresProject\PostgresProject.csproj", "{8BA45467-EB59-4B22-88C3-22AEE9EDEA22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Animal.Infrastructure", "Dog.Infrastructure\Animal.Infrastructure.csproj", "{3CCCFC57-7660-4DB6-9083-6C6540B4EAC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8BA45467-EB59-4B22-88C3-22AEE9EDEA22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BA45467-EB59-4B22-88C3-22AEE9EDEA22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BA45467-EB59-4B22-88C3-22AEE9EDEA22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BA45467-EB59-4B22-88C3-22AEE9EDEA22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CCCFC57-7660-4DB6-9083-6C6540B4EAC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CCCFC57-7660-4DB6-9083-6C6540B4EAC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CCCFC57-7660-4DB6-9083-6C6540B4EAC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CCCFC57-7660-4DB6-9083-6C6540B4EAC0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48ADDF08-5FC1-406D-8CC6-D27A9D9CD656}
+	EndGlobalSection
+EndGlobal
